@@ -5,4 +5,4 @@ Java Store Inventory System showcases the basic of GUI and CRUD Operations [Grad
 [@ajiwnl](https://www.github.com/ajiwnl) - Fullstack
 
 ## Techstack
-![Java Icon](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo.png)
+![Java Icon](https://img.icons8.com/ios-filled/50/6F6F6F/java-coffee-cup-logo.png)
